@@ -29,11 +29,11 @@ To run beeTest.py or beeWithGraph.py, ensure that all dependencies are installed
 
 To run this file, use a command-line terminal in the supplemental materials directory to enter:
 
-	python beeTest.py
+python beeTest.py
 
 OR
 
-	python3 beeTest.py
+python3 beeTest.py
 
 depending on how python is installed on your system.
 
@@ -45,11 +45,11 @@ Before running this file, first check that the parameters at the top of the file
 
 To run this file, run the same as beeTest.py:
 
-	python beeWithGraph.py
+python beeWithGraph.py
 
 OR
 
-	python3 beeWithGraph.py
+python3 beeWithGraph.py
 
 depending on how python is installed on your system.
 
