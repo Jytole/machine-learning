@@ -4,17 +4,11 @@ This repository contains materials utilized by Smith and Javorsky to supplement 
 
 ## File Descriptions
 
-Execution Graphs - png format images of the graphs of the executions used in the paper, including runs of 0, 10, and 100 scouts for 100 iterations.
-
 beeTest.py - a python file to test that the bees algorithm worked as expected before allowing it to run for all of the desired iterations.
 
 beeWithGraph.py - a python file to run the bees algorithm for a given number of iterations with any number of scout bees. This produces the plots used in the paper.
 
-condition+based+maintenance+of+naval+propulsion+plants.zip - a zip file containing the dataset as it was downloaded from the source.
-
 data.csv - the data file from the source that is necessary for execution.
-
-FinalPresentation.mp4 - the recording submitted of our presentation.
 
 README.md - this document.
 
