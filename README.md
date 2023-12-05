@@ -21,3 +21,5 @@ This assignment was a bonus assignment and was scored a 10/10.
 This folder contains files included in a submission for the final project written by Kyler Smith and Cassie Javorsky. The paper has not yet been published as of December 2023, but it is intended to propose a solution to the problem of condition-based maintenance using The Bees Algorithm. The folder contains python files written with a naive prediction and optimization function, but work as a proof of concept for adapting The Bees Algorithm's python library to a custom dataset.
 
 A readme document within this folder contains further information and instructions for program execution and dependencies.
+
+This assignment and associated presentation were together scored a 21/20.
